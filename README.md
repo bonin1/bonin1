@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bonin</h1>
 <h3 align="center">A guy that is in love with coding</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bonin1&label=Profile%20views&color=0e75b6&style=flat" alt="bonin1" /> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
