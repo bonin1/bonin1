@@ -66,6 +66,44 @@
   </a>
 </p>
 
+#### AI & Machine Learning
+<p align="center">
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png" alt="openai" width="40" height="40"/>
+  </a>
+</p>
+
+#### Microsoft 365 & Azure
+<p align="center">
+  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft365" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
+    <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" alt="copilot" width="40" height="40"/>
+  </a>
+</p>
+
 #### Database & Cloud
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -107,6 +145,25 @@
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  </a>
+</p>
+
+#### Prompt Engineering & AI Platforms
+<p align="center">
+  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/>
+  </a>
+  <a href="https://claude.ai/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-1.webcatalog.io/catalog/claude/claude-icon-filled-256.png?v=1748824349555" alt="claude" width="40" height="40"/>
+  </a>
+  <a href="https://www.midjourney.com/" target="_blank" rel="noreferrer">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/midjourney.png" alt="midjourney" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
   </a>
 </p>
 
