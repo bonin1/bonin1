@@ -93,14 +93,6 @@ Full-stack developer building scalable, production-ready web applications with m
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bonin1&show_icons=true&hide_border=true&count_private=true&rank_icon=github&title_color=0A66C2&icon_color=0A66C2" alt="Bonin GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonin1&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bonin1&layout=compact&hide_border=true&title_color=0A66C2" alt="Top languages" />
-</p>
 
 
 <p align="center">
@@ -113,7 +105,6 @@ Full-stack developer building scalable, production-ready web applications with m
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bonin1&theme=github" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bonin1&theme=github" alt="Most commit language" />
 </p>
 
 <p align="center">
