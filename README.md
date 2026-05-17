@@ -44,6 +44,9 @@ Full-stack developer building scalable, production-ready web applications with m
 
 ## Tech Focus
 
+<details>
+<summary><strong>Core stack, AI, and tools</strong> (click to expand)</summary>
+
 ### Core Stack
 - Frontend: React.js, Next.js, Tailwind CSS
 - Backend: Node.js, Nest.js, Express, FastAPI
@@ -70,6 +73,8 @@ Full-stack developer building scalable, production-ready web applications with m
 - Ship MVP to production, then iterate with real user feedback
 - Keep codebase clean: reusable components, API-first thinking, testable architecture
 
+</details>
+
 ---
 
 ## Toolbox Snapshot
@@ -93,19 +98,45 @@ Full-stack developer building scalable, production-ready web applications with m
 
 ## GitHub Stats
 
+Live cards below link through to the underlying services (stats, streak builder, and your contribution graph on GitHub).
 
+### Contribution streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonin1&bg_color=ffffff&color=0A66C2&line=0A66C2&point=181717&area=true&area_color=E8F1FF&hide_border=true" alt="Activity graph" />
+  <a href="https://git.io/streak-stats" title="GitHub Readme Streak Stats — customize this card">
+    <img src="https://streak-stats.demolab.com/?user=bonin1&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&border_radius=8" alt="GitHub contribution streak — current, longest, and total active days" />
+  </a>
 </p>
 
+### Overview & languages
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bonin1&theme=github" alt="Profile details" />
+  <a href="https://github.com/bonin1?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=bonin1&show_icons=true&hide_border=true&count_private=true&rank_icon=github&title_color=0A66C2&icon_color=0A66C2&border_radius=8" alt="Bonin GitHub stats" />
+  </a>
+  <a href="https://github.com/bonin1?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bonin1&layout=compact&hide_border=true&title_color=0A66C2&border_radius=8" alt="Top languages" />
+  </a>
+</p>
+
+### Activity & profile depth
+
+<details>
+<summary><strong>Charts & summary cards</strong> (click to expand)</summary>
+
+<p align="center">
+  <a href="https://github.com/bonin1">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonin1&bg_color=ffffff&color=0A66C2&line=0A66C2&point=181717&area=true&area_color=E8F1FF&hide_border=true" alt="Contribution activity graph" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bonin1&theme=github" alt="Repos per language" />
 </p>
+
+</details>
+
+### Dev quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev quote" />
